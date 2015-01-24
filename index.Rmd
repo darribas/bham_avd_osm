@@ -162,3 +162,6 @@ Birmingham, licensed under [Creative Commons Attribution 4.0 International Licen
 
 Materials available at [https://github.com/darribas/bham_avd_osm](https://github.com/darribas/bham_avd_osm)
 
+![Fig](parts/figs/uob_logo.jpg)
+
+
