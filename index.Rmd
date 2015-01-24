@@ -22,10 +22,12 @@ output:
 
 This session will walk you through the process of editing a targeted area of
 OpenStreetMap, the largest collective effort to create a map of the World
-(think of it as the WikiPedia of maps). 
+(think of it as the WikiPedia of maps). Use the red arrows to navigate through
+the slides. 
 
-Use the red arrows to navigate through
-the slides. A **pdf** version of this document is available [here](placeholder).
+* An online version is available at [**http://darribas.org/bham_avd_osm**](http://darribas.org/bham_avd_osm)
+* A **pdf** version of this document is available
+[here](https://github.com/darribas/bham_avd_osm/blob/gh-pages/index.pdf?raw=true).
 
 # Background
 
