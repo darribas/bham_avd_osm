@@ -16,7 +16,7 @@ output:
     transition: linear
 ---
 
-# 
+# About this practical
 
 ## 
 
@@ -67,26 +67,98 @@ If you are interested in these issues, follow up on these links:
 
 # What to do
 
-## 1.
+## 
 
-Bla bla
+**1** - Make sure you have your password at hand.
 
-# Credits
+## 
 
-## Credits
+**2** - Go to the Tasking Manager list to pick an area of the world in need of
+mapping. To do that, open up a (modern, e.g. Firefox, Chrome) browser and
+follow this url:
 
-This set of slides are heavily inspired by:
+http://tasks.hotosm.org/
 
-* Haggett, P. 2008. "[The Local Shape of Revolution: Reflections on Quantitative Geography at Cambridge in the 1950s and 1960s](http://onlinelibrary.wiley.com/doi/10.1111/j.1538-4632.2008.00731.x/abstract)," *Geographical Analysis*, 40, 336–352.
-* Murray, A. T. 2010. "[Quantitative Geography](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9787.2009.00642.x/abstract)," *Journal of Regional Science*,
-  50, 1, 143-163.
+You should see something like this:
 
-Of course any mistakes and errors remain entirely of myself
+## 
 
-## License
+![Fig](parts/figs/fig1.png)
 
-Content by [Dani Arribas-Bel](http://darribas.org),
-licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This is essentially a list of top priorities to be mapped around the World.
+Pick the one you prefer by clicking on its title.
 
-Materials available at [https://github.com/darribas/quant_geog](https://github.com/darribas/quant_geog)
+## 
+
+**3** - In this example, we will be editing task #591 which relates to the
+South Sudan Crisis. You should then see something that looks more or less like
+this:
+
+![Fig](parts/figs/fig2.png)
+
+The text on the left provides a bit of background on the area.
+
+## 
+
+**4** - Click on “Instructions”, this shows what you are expected to map (roads,
+   streets, buildings…) as well as the source of the satellite imagery.
+
+![Fig](parts/figs/fig3.png)
+
+## 
+
+**5** - Click on “Start contributing” and either click a polygon on the map
+in the right, or click on “Take a task at random” to let the computer select
+it for you. You’ll be zoomed into a specific area of the map, this is where
+you will be editing.
+
+![Fig](parts/figs/fig4.png)
+
+## 
+
+**6** - Now click on “Start Mapping”. If you haven’t logged in, you will need to:
+   enter the account name and password provided and, on the next page, click
+   on “Save changes”. When you’re redirected to the area to map, click “Start
+   Mapping” again. You should see something like this:
+
+![Fig](parts/figs/fig5.png)
+
+## 
+
+**7** - Select “Edit with iD editor” and a new tab/window will open with the editor
+   where you can make changes. Ready to map!!!
+
+![Fig](parts/figs/fig6.png)
+
+## 
+
+**8** - Now spot an object such as a building in the image that has not been
+added to the map (that is, that does not have a map object, such as a building
+footprint, drawn onto it). Click on “Area” on the top-left of the map:
+
+![Fig](parts/figs/fig7.png)
+
+## 
+
+**9** - Use the mouse to click through the shape of the object you would
+like to map:
+
+![Fig](parts/figs/fig8.png)
+
+## 
+
+**10** - Select the kind of object it is. In this example: “Building --> House”.
+    Save the changes by clicking “Save” in the upper right part of the map.
+
+**11** - Click “Save” on the left hand side bar. You are done! You have just
+        contributed making the world a more mapped place!
+
+# License
+
+## 
+
+Content by [Dani Arribas-Bel](http://darribas.org) and the University of
+Birmingham, licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+Materials available at [https://github.com/darribas/bham_avd_osm](https://github.com/darribas/bham_avd_osm)
 

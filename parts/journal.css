@@ -20,7 +20,7 @@
   line-height: 1.5em; 
   text-align: left; }
 
-.reveal ul, li {
+.reveal ul, li, ol {
   font-family: "CMS";
   line-height: 1.5em; 
   }
