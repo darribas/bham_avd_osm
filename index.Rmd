@@ -1,0 +1,92 @@
+---
+title: "GIScience Computer Practical"
+subtitle: "*Citizen science: mapping for humanitarian response*"
+author: "[[GEES Applicant Visit
+Day]](http://www.birmingham.ac.uk/schools/gees/index.aspx)"
+output:
+  beamer_presentation:
+    toc: true
+    slide_level: 2
+  revealjs::revealjs_presentation:
+    mathjax: default
+    center: true
+    pandoc_args:
+    - --css
+    - parts/journal.css
+    transition: linear
+---
+
+# 
+
+## 
+
+This session will walk you through the process of editing a targeted area of
+OpenStreetMap, the largest collective effort to create a map of the World
+(think of it as the WikiPedia of maps). 
+
+Use the red arrows to navigate through
+the slides. A **pdf** version of this document is available [here](placeholder).
+
+# Background
+
+## 
+
+In this practical, you are going to learn how to contribute to the
+OpenStreetMap (OSM) project, helping map parts of the world at risk of
+humanitarian disaster. To do that, you will be using satellite images that
+will help you identify objects on the ground, such as buildings or roads, so
+you can draw them, effectively adding them to the map. The selection of areas
+in need will be taken care of by the Humanitarian OpenStreetMap Team (HOT).
+
+## 
+
+OSM is the largest collective effort to create a digital free map of the
+entire World contributed by volunteers. Think of it as the WikiPedia of maps.
+Started in 2004 at UCL, it has grown substantially over the years and,
+currently, parts of the map provide better quality data than comercial
+alternatives such as Google Maps.
+
+## 
+
+The HOT is the arm of OSM that is concerned with maximizing the impact of the
+Map for humanitarian purposes. As such, it connects traditional efforts in
+humanitarian relief with the OSM. Having reliable and accurate spatial data is
+crucial for humanitarian missions because it allows to manage scarce resources
+in more efficient ways. One of its missions is to keep updated the Tasking
+Manager, a list of urgent parts of the world to be mapped. In this practical,
+we will be using the Tasking Manager to select the area that we will be
+editing.
+
+## Like this??? Here's more!
+
+If you are interested in these issues, follow up on these links:
+
+* OpenStreetMap info page http://www.openstreetmap.org/about
+* HOT project page: http://hotosm.org/
+* Link to the Task Manager: http://tasks.hotosm.org/
+
+# What to do
+
+## 1.
+
+Bla bla
+
+# Credits
+
+## Credits
+
+This set of slides are heavily inspired by:
+
+* Haggett, P. 2008. "[The Local Shape of Revolution: Reflections on Quantitative Geography at Cambridge in the 1950s and 1960s](http://onlinelibrary.wiley.com/doi/10.1111/j.1538-4632.2008.00731.x/abstract)," *Geographical Analysis*, 40, 336–352.
+* Murray, A. T. 2010. "[Quantitative Geography](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9787.2009.00642.x/abstract)," *Journal of Regional Science*,
+  50, 1, 143-163.
+
+Of course any mistakes and errors remain entirely of myself
+
+## License
+
+Content by [Dani Arribas-Bel](http://darribas.org),
+licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+Materials available at [https://github.com/darribas/quant_geog](https://github.com/darribas/quant_geog)
+
